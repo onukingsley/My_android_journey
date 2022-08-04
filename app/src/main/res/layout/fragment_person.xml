@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PersonFragment">
+
+    <androidx.drawerlayout.widget.DrawerLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:orientation="vertical"
+           android:background="#D3d3d3">
+           <!--<include
+               layout="@layout/toolbar2"/>-->
+
+
+           <com.google.android.material.tabs.TabLayout
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:background="@color/purple_700"
+               app:tabIndicatorColor="@color/white"
+               app:tabTextColor="@color/white"
+               android:id="@+id/layz">
+
+               <com.google.android.material.tabs.TabItem
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:icon="@drawable/ic_baseline_person_24"
+                   android:background="@color/white">
+
+               </com.google.android.material.tabs.TabItem>
+
+               <com.google.android.material.tabs.TabItem
+
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:icon="@drawable/ic_baseline_edit_24"
+                   >
+
+               </com.google.android.material.tabs.TabItem>
+
+           </com.google.android.material.tabs.TabLayout>
+           <!--<RelativeLayout
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content">
+
+               <com.google.android.material.bottomnavigation.BottomNavigationView
+                   android:layout_width="match_parent"
+                   android:layout_height="wrap_content"
+                   android:background="@color/purple_700"
+                   app:menu="@menu/menu3" />
+
+
+           </RelativeLayout>-->
+           <!--<FrameLayout
+               android:layout_width="match_parent"
+               android:layout_height="fill_parent"
+               android:id="@+id/parsonlayout"/>-->
+
+           <androidx.viewpager.widget.ViewPager
+               android:layout_width="match_parent"
+               android:layout_height="fill_parent"
+               android:id="@+id/viewp"/>
+         <!--  <LinearLayout
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:orientation="vertical"
+               android:gravity="center_horizontal"
+               android:background="@color/white"
+               android:layout_marginTop="15dp"
+               android:layout_marginBottom="10dp"
+               android:layout_marginRight="15dp"
+               android:layout_marginLeft="15dp"
+               android:paddingBottom="15dp">
+               <TextView
+                   android:layout_width="match_parent"
+                   android:layout_height="wrap_content"
+                   android:text="Change Details"
+                   android:gravity="center_horizontal"
+                   android:layout_margin="10dp"
+                   />
+
+               <EditText
+                   android:layout_width="match_parent"
+                   android:layout_height="wrap_content"
+                   android:drawableLeft="@drawable/ic_baseline_person"
+                   android:layout_marginLeft="20dp"
+                   android:layout_marginRight="20dp"
+                   android:inputType="textEmailAddress"
+                   android:hint="example@.com"/>
+               <EditText
+                   android:layout_width="match_parent"
+                   android:layout_height="wrap_content"
+                   android:drawableLeft="@drawable/ic_baseline_favorite_24"
+                   android:layout_marginLeft="20dp"
+                   android:layout_marginRight="20dp"
+                   android:inputType="phone"
+                   android:hint="+234-808-12345"/>
+
+
+
+
+           </LinearLayout>
+           <LinearLayout
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:orientation="vertical"
+               android:gravity="center_horizontal"
+               android:background="@color/white"
+               android:layout_marginTop="15dp"
+               android:layout_marginRight="15dp"
+               android:layout_marginLeft="15dp"
+
+               android:paddingBottom="15dp">
+               <TextView
+                   android:layout_width="match_parent"
+                   android:layout_height="wrap_content"
+                   android:text="Change Details"
+                   android:gravity="center_horizontal"
+                   android:layout_margin="10dp"
+                   />
+
+               <EditText
+                   android:layout_width="match_parent"
+                   android:layout_height="wrap_content"
+                   android:drawableLeft="@drawable/ic_baseline_enhanced_encryption_24"
+                   android:layout_marginLeft="20dp"
+                   android:layout_marginRight="20dp"
+                   android:inputType="textPassword"
+                   android:hint="password"/>
+               <EditText
+                   android:layout_width="match_parent"
+                   android:layout_height="wrap_content"
+                   android:drawableLeft="@drawable/ic_baseline_check_24"
+                   android:layout_marginLeft="20dp"
+                   android:layout_marginRight="20dp"
+                   android:inputType="textPassword"
+                   android:hint="confirm password"/>
+
+               <Button
+                   android:layout_width="match_parent"
+                   android:layout_height="wrap_content"
+                   android:layout_marginLeft="15dp"
+                   android:layout_marginRight="15dp"
+                   app:cornerRadius="25dp"
+                   android:text="change"/>
+
+
+
+
+
+           </LinearLayout>-->
+       </LinearLayout>
+        <com.google.android.material.navigation.NavigationView
+            android:id="@+id/too"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:menu="@menu/drawer_menu"
+            app:headerLayout="@layout/drawer_head"
+            android:layout_gravity = "start"
+
+            >
+        </com.google.android.material.navigation.NavigationView>
+
+
+
+    </androidx.drawerlayout.widget.DrawerLayout>
+
+</FrameLayout>

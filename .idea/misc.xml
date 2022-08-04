@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Zinox/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_add_to_db.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Zinox/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_buttomnavigation.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Zinox/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_display_from_db.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Zinox/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_layout_inflater.xml" value="0.1" />
+        <entry key="..\:/Users/Zinox/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_list_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Zinox/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.1527777777777778" />
+        <entry key="..\:/Users/Zinox/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_menu.xml" value="0.14907407407407408" />
+        <entry key="..\:/Users/Zinox/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_scrolling.xml" value="0.15" />
+        <entry key="..\:/Users/Zinox/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_share_preference.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Zinox/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_string_request.xml" value="0.1" />
+        <entry key="..\:/Users/Zinox/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_tab_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Zinox/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_update_db.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Zinox/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_viewpage.xml" value="0.14907407407407408" />
+        <entry key="..\:/Users/Zinox/AndroidStudioProjects/MyApplication/app/src/main/res/layout/content_scrolling.xml" value="0.1" />
+        <entry key="..\:/Users/Zinox/AndroidStudioProjects/MyApplication/app/src/main/res/layout/drawer_head.xml" value="0.14907407407407408" />
+        <entry key="..\:/Users/Zinox/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_center.xml" value="0.14907407407407408" />
+        <entry key="..\:/Users/Zinox/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_home.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/Zinox/AndroidStudioProjects/MyApplication/app/src/main/res/layout/singleuser.xml" value="0.28177641653905056" />
+        <entry key="..\:/Users/Zinox/AndroidStudioProjects/MyApplication/app/src/main/res/layout/toolbar.xml" value="0.15648148148148147" />
+        <entry key="..\:/Users/Zinox/AndroidStudioProjects/MyApplication/app/src/main/res/layout/toolbar2.xml" value="0.14907407407407408" />
+        <entry key="..\:/Users/Zinox/AndroidStudioProjects/MyApplication/app/src/main/res/menu/buttomnav_menu.xml" value="0.1" />
+        <entry key="..\:/Users/Zinox/AndroidStudioProjects/MyApplication/app/src/main/res/menu/menu3.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Zinox/AndroidStudioProjects/MyApplication/app/src/main/res/menu/menu4.xml" value="0.1" />
+        <entry key="..\:/Users/onuch/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_baseline_add_alert_24.xml" value="0.15" />
+        <entry key="..\:/Users/onuch/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.15" />
+        <entry key="..\:/Users/onuch/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_baseline_enhanced_encryption_24.xml" value="0.15" />
+        <entry key="..\:/Users/onuch/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.15" />
+        <entry key="..\:/Users/onuch/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_baseline_person.xml" value="0.15" />
+        <entry key="..\:/Users/onuch/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.15" />
+        <entry key="..\:/Users/onuch/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_person_24.xml" value="0.1455" />
+        <entry key="..\:/Users/onuch/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_alert_dialog.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/onuch/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_buttomnavigation.xml" value="0.203125" />
+        <entry key="..\:/Users/onuch/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_image_picker.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/onuch/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_layout_inflater.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/onuch/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_list_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/onuch/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/onuch/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/onuch/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_notification.xml" value="0.203125" />
+        <entry key="..\:/Users/onuch/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_simple_browser.xml" value="0.22" />
+        <entry key="..\:/Users/onuch/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_splash_screen.xml" value="0.16" />
+        <entry key="..\:/Users/onuch/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_string_request.xml" value="0.10454545454545454" />
+        <entry key="..\:/Users/onuch/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_tab_view.xml" value="0.203125" />
+        <entry key="..\:/Users/onuch/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_viewpage.xml" value="0.25" />
+        <entry key="..\:/Users/onuch/AndroidStudioProjects/MyApplication/app/src/main/res/layout/drawer_head.xml" value="0.25" />
+        <entry key="..\:/Users/onuch/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_center.xml" value="0.203125" />
+        <entry key="..\:/Users/onuch/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/onuch/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_person.xml" value="0.1" />
+        <entry key="..\:/Users/onuch/AndroidStudioProjects/MyApplication/app/src/main/res/layout/singleuser.xml" value="0.33" />
+        <entry key="..\:/Users/onuch/AndroidStudioProjects/MyApplication/app/src/main/res/layout/toolbar.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/onuch/AndroidStudioProjects/MyApplication/app/src/main/res/layout/toolbar2.xml" value="0.1890625" />
+        <entry key="..\:/Users/onuch/AndroidStudioProjects/MyApplication/app/src/main/res/menu/buttomnav_menu.xml" value="0.203125" />
+        <entry key="..\:/Users/onuch/AndroidStudioProjects/MyApplication/app/src/main/res/menu/drawer_menu.xml" value="0.22" />
+        <entry key="..\:/Users/onuch/AndroidStudioProjects/MyApplication/app/src/main/res/menu/menu3.xml" value="0.203125" />
+        <entry key="..\:/Users/onuch/AndroidStudioProjects/MyApplication/app/src/main/res/menu/menu4.xml" value="0.203125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK" />
+</project>
